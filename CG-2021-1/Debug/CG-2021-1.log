@@ -1,0 +1,12 @@
+﻿  main_prac10.cpp
+c:\users\dell\documents\escuela\compu grafica\proyecto 2021-1\cg-2021-1\include\shader_m.h(44): warning C4101: 'e': variable local sin referencia
+c:\users\dell\documents\escuela\compu grafica\proyecto 2021-1\cg-2021-1\include\modelanim.h(104): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\dell\documents\escuela\compu grafica\proyecto 2021-1\cg-2021-1\include\modelanim.h(520): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\dell\documents\escuela\compu grafica\proyecto 2021-1\cg-2021-1\main_prac10.cpp(645): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\dell\documents\escuela\compu grafica\proyecto 2021-1\cg-2021-1\main_prac10.cpp(646): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\dell\documents\escuela\compu grafica\proyecto 2021-1\cg-2021-1\main_prac10.cpp(650): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\dell\documents\escuela\compu grafica\proyecto 2021-1\cg-2021-1\main_prac10.cpp(651): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\dell\documents\escuela\compu grafica\proyecto 2021-1\cg-2021-1\main_prac10.cpp(653): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\dell\documents\escuela\compu grafica\proyecto 2021-1\cg-2021-1\main_prac10.cpp(654): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\dell\documents\escuela\compu grafica\proyecto 2021-1\cg-2021-1\main_prac10.cpp(662): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  CG-2021-1.vcxproj -> C:\Users\DELL\Documents\Escuela\Compu grafica\Proyecto 2021-1\Debug\CG-2021-1.exe
